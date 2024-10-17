@@ -1,7 +1,8 @@
+<div align="center">
 # Hi there, I'm Minseung 👋
 
 ### Aspiring Software Engineer | Computer Science @ TMU
-
+</div>
 ---
 👨‍💻 Primary working on `Full-Stack Development`. 
 <br><br>
