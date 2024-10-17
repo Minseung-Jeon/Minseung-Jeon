@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. I am Minseung Jeon👋
 
 <!--
 **Minseung-Jeon/Minseung-Jeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
