@@ -33,4 +33,4 @@
  ![Web Security knowledge](https://img.shields.io/badge/Web%20Security-000000?style=for-the-badge&logo=WebAuthn&logoColor=white) 
  ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
  -->
- 
+ ---
