@@ -5,7 +5,7 @@
 ---
 👨‍💻 Primary working on `Full-Stack Development` based in `Toronto`. 
 <br><br>
-🚀 I am interested in `TypeScript`, `React`, `Next.JS`, `Node.JS`!
+🚀 I am interested in `TypeScript`, `React`, `Next.JS`, `SQL/MongoDB`!
 <br><br>
 📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
 <br><br>
