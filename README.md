@@ -5,15 +5,13 @@
 ---
 👨‍💻 Primary working on `Full-Stack Development` based in `Toronto`. 
 <br><br>
-🚀 I am interested in `TypeScript`, `React`, `Next.JS`, `SQL/MongoDB`!
+🚀 I am interested in `TypeScript`, `React`, `Next.JS`!
 <br><br>
 📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
 <br><br>
 🔗  [LinkedIn](https://www.linkedin.com/in/minseung-jeon-58ba69287/)
 
-
 ---
-
 **👷 Skill list**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -34,5 +32,7 @@
  -->
  
 ---
-
-
+**🔭 Working on**
+[ShareMyAnime](https://sharemyanime.onrender.com/)
+[](https://sharemyanime.onrender.com/)
+---
