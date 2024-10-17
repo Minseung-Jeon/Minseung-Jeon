@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br><br>
-🥳 I'm a Full-Stack Developer. 
+🥳 I'm a Full-Stack Developer based in Toronto 🍁. 
 <br><br>
 🚀 I am interested in `TypeScript`, `React`, `Next.JS`, `Node.JS`!
 <br><br>
