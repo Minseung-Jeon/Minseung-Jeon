@@ -11,7 +11,7 @@
 <br><br>
 📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
 <br><br>
-🔗  [LinkedIn](https://www.linkedin.com/in/minseung-jeon-58ba69287/)
+🔗  [LinkedIn](https://www.linkedin.com/in/minseung-jeon-58ba69287/) [DevPost](https://devpost.com/tonyjun00?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ---
 **👷 Skill list**
