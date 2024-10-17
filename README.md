@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I'm a Full-Stack Developer.
+💻 I'm a Full-Stack Developer. <br><br>
 🚀 I am interested in 
 <span style="background-color: #eee; padding: 5px; border-radius: 5px; margin-right: 5px;">TypeScript</span>
 <span style="background-color: #eee; padding: 5px; border-radius: 5px; margin-right: 5px;">React</span>
