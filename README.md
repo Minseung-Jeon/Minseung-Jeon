@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br><br>
 🥳 I'm a Full-Stack Developer. 
 <br><br>
 🚀 I am interested in `TypeScript`, `React`, `Next.JS`, `Node.JS`!
