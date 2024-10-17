@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🥳 I'm a Full-Stack Developer. 
 <br><br>
-🚀 I am interested in `TypeScript`, `React`, `Next.JS`!
+🚀 I am interested in `TypeScript`, `React`, `Next.JS`, `Node.JS`!
 <br><br>
 📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
 🔗  [LinkedIn](https://www.linkedin.com/in/minseung-jeon-58ba69287/)
