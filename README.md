@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <span style="background-color: #eee; padding: 5px; border-radius: 5px; margin-right: 5px;">React</span>
 <span style="background-color: #eee; padding: 5px; border-radius: 5px;">CI/CD</span>!
 <br>
-📧 Reach me through [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
+📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
 🔗  [LinkedIn](https://www.linkedin.com/in/minseung-jeon-58ba69287/)
