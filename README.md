@@ -1,6 +1,6 @@
 <div align="center">
-# Hi there, I'm Minseung 👋
 
+# Hi there, I'm Minseung 👋
 ### Aspiring Software Engineer | Computer Science @ TMU
 </div>
 ---
