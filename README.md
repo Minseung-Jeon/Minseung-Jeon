@@ -1,6 +1,6 @@
 # Hi there, I'm Minseung 👋
 
-### Aspiring Software Engineer | Computer Science Student @ TMU
+### Aspiring Software Engineer | Computer Science @ TMU
 
 ---
 👨‍💻 Primary working on `Full-Stack Development` based in `Toronto`. 
