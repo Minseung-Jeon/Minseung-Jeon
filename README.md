@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 🥳 I'm a Full-Stack Developer. 
 <br><br>
-🚀 I am interested in 
-<span style="background-color: #eee; padding: 5px; border-radius: 5px; margin-right: 5px;">TypeScript</span>
-<span style="background-color: #eee; padding: 5px; border-radius: 5px; margin-right: 5px;">React</span>
-<span style="background-color: #eee; padding: 5px; border-radius: 5px;">CI/CD</span>!
-<br>
+🚀 I am interested in `TypeScript`, `React`, `Next.JS`!
+<br><br>
 📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
 🔗  [LinkedIn](https://www.linkedin.com/in/minseung-jeon-58ba69287/)
