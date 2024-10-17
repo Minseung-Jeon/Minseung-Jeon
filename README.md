@@ -31,8 +31,3 @@
  ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
  -->
  
----
-**🔭 Working on**
-[ShareMyAnime](https://sharemyanime.onrender.com/)
-[](https://sharemyanime.onrender.com/)
----
