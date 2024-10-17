@@ -1,4 +1,4 @@
-## Hi there. I am Minseung Jeon👋
+## Hi there, I'm Minseung 👋
 
 <!--
 **Minseung-Jeon/Minseung-Jeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 I'm a Full-Stack Developer.
+🚀 I am interested in TypeScript, React, CI/CD !
