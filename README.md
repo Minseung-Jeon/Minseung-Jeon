@@ -3,7 +3,7 @@
 ### Aspiring Software Engineer | Computer Science @ TMU
 
 ---
-👨‍💻 Primary working on `Full-Stack Development` based in `Toronto`. 
+👨‍💻 Primary working on `Full-Stack Development`. 
 <br><br>
 🚀 I am interested in `TypeScript`, `React`, `Next.JS`!
 <br><br>
