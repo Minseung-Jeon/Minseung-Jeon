@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 💻 I'm a Full-Stack Developer.
-🚀 I am interested in TypeScript, React, CI/CD !
+🚀 I am interested in 
+<span style="background-color: #eee; padding: 5px; border-radius: 5px; margin-right: 5px;">TypeScript</span>
+<span style="background-color: #eee; padding: 5px; border-radius: 5px; margin-right: 5px;">React</span>
+<span style="background-color: #eee; padding: 5px; border-radius: 5px;">CI/CD</span>!
