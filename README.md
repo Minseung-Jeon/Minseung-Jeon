@@ -1,21 +1,9 @@
-## Hi there, I'm Minseung 👋
+# Hi there, I'm Minseung 👋
 
-<!--
-**Minseung-Jeon/Minseung-Jeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Computer Science Student @ TMU
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br><br>
-🥳 I'm a `Full-Stack Developer` based in `Toronto`. 
+---
+👨‍💻 Primary working on `Full-Stack Development` based in `Toronto`. 
 <br><br>
 🚀 I am interested in `TypeScript`, `React`, `Next.JS`, `Node.JS`!
 <br><br>
@@ -43,4 +31,7 @@ Here are some ideas to get you started:
  ![Web Security knowledge](https://img.shields.io/badge/Web%20Security-000000?style=for-the-badge&logo=WebAuthn&logoColor=white) 
  ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
  -->
+ 
 ---
+
+
