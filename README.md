@@ -5,7 +5,7 @@
 </div>
 
 ---
-👨‍💻 Primary working on `Full-Stack Development`. 
+👨‍💻 Primarily working on `Full-Stack Development`. 
 <br><br>
 🚀 I am interested in `TypeScript`, `React`, `Next.JS`!
 <br><br>
