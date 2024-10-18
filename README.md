@@ -9,6 +9,8 @@
 <br><br>
 🚀 I am interested in `TypeScript`, `React`, `Next.JS`!
 <br><br>
+💞️ I’m looking to collaborate on anything, please reach out to me if you want to collaborate.
+<br><br>
 📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
 <br><br>
 🔗  [LinkedIn](https://www.linkedin.com/in/minseung-jeon-58ba69287/) 
