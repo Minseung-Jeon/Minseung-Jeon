@@ -7,11 +7,11 @@
 
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
-📌 <strong>Currently working on:</strong> Full-Stack Development (MERN stack)<br>
+👨‍💻 Primarily working on `Full-Stack Development`. 
 <br><br>
 🚀 I am interested in `React`, `Typescript`, and `Next.js`!
 <br><br>
-✨ I’m looking to collaborate on anything, please reach out to me if you want to collaborate.
+✨ Looking to collaborate! Open to any interesting projects.
 <br><br>
 📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
 <br><br>
