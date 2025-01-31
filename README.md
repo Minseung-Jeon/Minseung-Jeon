@@ -8,8 +8,12 @@
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
 <p align="left">
-📌 <strong>Currently working on:</strong> `Full-Stack Development`<br>
-🚀 <strong>Passionate about:</strong> `React`, `TypeScript`, and `Next.js`<br>
+📌 <strong>Currently working on:</strong> 
+  <img src="https://img.shields.io/badge/-Full_Stack_Development-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"> <br>
+🚀 <strong>Passionate about:</strong> 
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"> 
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"> 
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="20"><br>
 ✨ <strong>Looking to collaborate:</strong> Open to any interesting projects!<br>
 📧 <strong>Contact:</strong> <a href="mailto:tonyjun00@gmail.com">tonyjun00@gmail.com</a>
 </p>
