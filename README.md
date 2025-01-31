@@ -7,16 +7,17 @@
 
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
-<p align="left">
-📌 <strong>Currently working on:</strong> 
-  <img src="https://img.shields.io/badge/-Full_Stack_Development-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"> <br>
-🚀 <strong>Passionate about:</strong> 
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"> 
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20"> 
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="20"><br>
-✨ <strong>Looking to collaborate:</strong> Open to any interesting projects!<br>
-📧 <strong>Contact:</strong> <a href="mailto:tonyjun00@gmail.com">tonyjun00@gmail.com</a>
-</p>
+👨‍💻 Primarily working on `Full-Stack Development`. 
+<br><br>
+🚀 I am interested in `React`, `Typescript`, and `Next.js`!
+<br><br>
+✨ I’m looking to collaborate on anything, please reach out to me if you want to collaborate.
+<br><br>
+📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
+<br><br>
+🔗  [LinkedIn](https://www.linkedin.com/in/minseung-jeon-58ba69287/) 
+🔗  [DevPost](https://devpost.com/tonyjun00?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+🔗  [CS Blog](https://medium.com/@tonyjun00)
 
 <div align="center" style="margin: 1rem 0">
   <a href="https://www.linkedin.com/in/minseung-jeon-58ba69287/" target="_blank">
