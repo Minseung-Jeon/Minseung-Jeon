@@ -1,38 +1,44 @@
 <div align="center">
 
-# Hi there, I'm Minseung 👋
-### Aspiring Software Engineer | Computer Science @ TMU
+<h3>Hi there, I'm Minseung 👋</h3>
+<h4>Aspiring Software Engineer | Computer Science @ TMU</h4>
+
 </div>
 
----
-👨‍💻 Primarily working on `Full-Stack Development`. 
-<br><br>
-🚀 I am interested in `React`, `Typescript`, and `Next.js`!
-<br><br>
-✨ I’m looking to collaborate on anything, please reach out to me if you want to collaborate.
-<br><br>
-📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
-<br><br>
-🔗  [LinkedIn](https://www.linkedin.com/in/minseung-jeon-58ba69287/) 
-🔗  [DevPost](https://devpost.com/tonyjun00?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-🔗  [CS Blog](https://medium.com/@tonyjun00)
----
-**👷 Skill list**
+<hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-blue?style=for-the-badge&logo=api&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
+<p align="left">
+📌 <strong>Currently working on:</strong> Full-Stack Development (MERN stack)<br>
+🚀 <strong>Passionate about:</strong> React, TypeScript, and Next.js<br>
+✨ <strong>Looking to collaborate:</strong> Open to any interesting projects!<br>
+📧 <strong>Contact:</strong> <a href="mailto:tonyjun00@gmail.com">tonyjun00@gmail.com</a>
+</p>
 
-<!-- Coming Soon --> 
- <!-- 
- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
- ![Web Security knowledge](https://img.shields.io/badge/Web%20Security-000000?style=for-the-badge&logo=WebAuthn&logoColor=white) 
- ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
- -->
- ---
+<div align="center" style="margin: 1rem 0">
+  <a href="https://www.linkedin.com/in/minseung-jeon-58ba69287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://devpost.com/tonyjun00" target="_blank">
+    <img src="https://img.shields.io/badge/DevPost-003E54?style=flat&logo=devpost&logoColor=white" alt="DevPost">
+  </a>
+  <a href="https://medium.com/@tonyjun00" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</div>
+
+<hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
+
+<h4>🛠 Tech Stack</h4>
+
+<div align="left" style="margin: 0.8rem 0">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+</div>
