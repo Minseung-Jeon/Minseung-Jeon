@@ -7,7 +7,7 @@
 
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
-👨‍💻 Primarily working on `Full-Stack Development`. 
+📌 <strong>Currently working on:</strong> Full-Stack Development (MERN stack)<br>
 <br><br>
 🚀 I am interested in `React`, `Typescript`, and `Next.js`!
 <br><br>
