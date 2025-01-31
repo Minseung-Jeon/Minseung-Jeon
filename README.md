@@ -8,7 +8,7 @@
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
 <p align="left">
-📌 <strong>Currently working on:</strong> Full-Stack Development (MERN stack)<br>
+📌 <strong>Currently working on:</strong> Full-Stack Development<br>
 🚀 <strong>Passionate about:</strong> React, TypeScript, and Next.js<br>
 ✨ <strong>Looking to collaborate:</strong> Open to any interesting projects!<br>
 📧 <strong>Contact:</strong> <a href="mailto:tonyjun00@gmail.com">tonyjun00@gmail.com</a>
