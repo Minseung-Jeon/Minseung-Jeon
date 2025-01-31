@@ -7,9 +7,9 @@
 ---
 👨‍💻 Primarily working on `Full-Stack Development`. 
 <br><br>
-🚀 I am interested in `Javascript`, `Typescript`, `React`!
+🚀 I am interested in `React`, `Typescript`, and `Next.js`!
 <br><br>
-💞️ I’m looking to collaborate on anything, please reach out to me if you want to collaborate.
+✨ I’m looking to collaborate on anything, please reach out to me if you want to collaborate.
 <br><br>
 📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
 <br><br>
