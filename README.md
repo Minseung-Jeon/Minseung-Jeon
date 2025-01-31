@@ -19,17 +19,6 @@
 🔗  [DevPost](https://devpost.com/tonyjun00?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 🔗  [CS Blog](https://medium.com/@tonyjun00)
 
-<div align="center" style="margin: 1rem 0">
-  <a href="https://www.linkedin.com/in/minseung-jeon-58ba69287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://devpost.com/tonyjun00" target="_blank">
-    <img src="https://img.shields.io/badge/DevPost-003E54?style=flat&logo=devpost&logoColor=white" alt="DevPost">
-  </a>
-  <a href="https://medium.com/@tonyjun00" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium">
-  </a>
-</div>
 
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
