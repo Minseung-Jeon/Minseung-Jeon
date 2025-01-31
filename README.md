@@ -15,7 +15,7 @@
 <br><br>
 🔗  [LinkedIn](https://www.linkedin.com/in/minseung-jeon-58ba69287/) 
 🔗  [DevPost](https://devpost.com/tonyjun00?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
+🔗  [CS Blog](https://medium.com/@tonyjun00)
 ---
 **👷 Skill list**
 
