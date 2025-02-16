@@ -1,17 +1,17 @@
 <div align="center">
 
 <h3>Hi there, I'm Minseung 👋</h3>
-<h4>Aspiring Software Engineer | Computer Science @ TMU</h4>
+<h4>Freelance Software Developer</h4>
 
 </div>
 
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
-👨‍💻 Primarily working on `Full-Stack Development`. 
+👨‍💻 Primarily working on `Web and Mobile Applications`. 
 <br><br>
-🚀 I am interested in `React`, `Typescript`, and `Next.js`!
+🚀 I work with `React`, `React-Native`, `Typescript`, and `Next.js`!
 <br><br>
-✨ Looking to collaborate! Open to any interesting projects.
+✨ I'm passionate about developing solutions that address real-world business challenges and drive growth.
 <br><br>
 📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
 <br><br>
