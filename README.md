@@ -7,9 +7,9 @@
 
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
-👨‍💻 Primarily working on `Software solutions that solve business problems`. 
+👨‍💻 Primarily working on `software solutions that solve business problems`. 
 <br><br>
-🚀 I work with `React`, `React-Native`, `Typescript`, and `Next.js`!
+🚀 I work with `React`, `React-Native`, `Typescript`, `Flask`, and `Next.js`!
 <br><br>
 ✨ I'm passionate about developing solutions that address real-world business challenges and drive growth.
 <br><br>
