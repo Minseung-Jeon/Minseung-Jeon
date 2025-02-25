@@ -7,7 +7,7 @@
 
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
-👨‍💻 Primarily working on `Web and Mobile Applications`. 
+👨‍💻 Primarily working on `Software solutions that solve business problems`. 
 <br><br>
 🚀 I work with `React`, `React-Native`, `Typescript`, and `Next.js`!
 <br><br>
