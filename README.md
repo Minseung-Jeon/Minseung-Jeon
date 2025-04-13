@@ -9,7 +9,7 @@
 
 👨‍💻 Primarily working on `full stack web and mobile applications`. 
 <br><br>
-🚀 I work with `React`, `React-Native`, `Typescript`, `Flask`, and `Next.js`!
+🚀 I work with `React`, `React-Native`, `TypeScript`, `Flask`, `Next.js`,`Node.js`, and `PostgreSQL`!
 <br><br>
 ✨ I'm passionate about developing solutions that address real-world business challenges and drive growth.
 <br><br>
