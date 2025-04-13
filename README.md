@@ -7,7 +7,7 @@
 
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
-👨‍💻 Primarily working on `software solutions that solve business problems`. 
+👨‍💻 Primarily working on `full stack web and mobile applications`. 
 <br><br>
 🚀 I work with `React`, `React-Native`, `Typescript`, `Flask`, and `Next.js`!
 <br><br>
@@ -32,6 +32,6 @@
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
   <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
