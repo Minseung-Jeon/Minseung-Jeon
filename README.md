@@ -1,7 +1,7 @@
 <div align="center">
 
 <h3>Hi there, I'm Minseung 👋</h3>
-<h4>Software Engineer</h4>
+<h4>Software Engineer @ KeelWise</h4>
 
 </div>
 
