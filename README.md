@@ -15,8 +15,6 @@
 📧 [tonyjun00@gmail.com](mailto:tonyjun00@gmail.com)
 <br><br>
 🔗  [LinkedIn](https://www.linkedin.com/in/minseung-jeon-58ba69287/) 
-🔗  [DevPost](https://devpost.com/tonyjun00?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-🔗  [AI Engineering Blog](https://medium.com/@tonyjun00)
 
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
