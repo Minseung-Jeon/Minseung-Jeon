@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hi there, I'm Minseung 👋</h2>
+<h1>Hi there, I'm Minseung 👋</h1>
 <h3><a href="https://everkind.com" style="text-decoration: underline;">AI Software Engineer @ EverKind</a></h3>
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
