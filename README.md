@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Claude-FF6B35?style=flat&logo=anthropic&logoColor=white" alt="Claude">
   <img src="https://img.shields.io/badge/Perplexity-1FB6FF?style=flat&logoColor=white" alt="Perplexity">
   <img src="https://img.shields.io/badge/xAI-000000?style=flat&logoColor=white" alt="xAI">
+  <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
