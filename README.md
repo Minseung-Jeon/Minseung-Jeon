@@ -1,6 +1,6 @@
 <div align="center">
-<h3>Hi there, I'm Minseung 👋</h3>
-<h4><a href="https://everkind.com" style="text-decoration: underline;">AI Software Engineer @ EverKind</a></h4>
+<h2>Hi there, I'm Minseung 👋</h2>
+<h3><a href="https://everkind.com" style="text-decoration: underline;">AI Software Engineer @ EverKind</a></h3>
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
 🤖 Building intelligent systems that understand, remember, and engage naturally with users.
