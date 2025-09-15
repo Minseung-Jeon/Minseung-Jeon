@@ -1,6 +1,6 @@
 <div align="center">
 <h1 style="margin-bottom: 0;">Hi there, I'm Minseung 👋</h1>
-<h3 style="margin-top: 0;"><a href="https://amicachat.ca" style="text-decoration: underline;">Agentic AI Development @ EverKind (AmicaChat)</a></h3>
+<h3 style="margin-top: 0;"><a href="https://amicachat.ca" style="text-decoration: underline;">Software Engineer</a></h3>
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
 
 🤖 Building intelligent systems that understand, remember, and engage naturally with users.
