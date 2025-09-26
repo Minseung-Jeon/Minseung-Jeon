@@ -1,8 +1,9 @@
 <div align="center">
 <h1 style="margin-bottom: 0;">Hi there, I'm Minseung 👋</h1>
 <h3 style="margin-top: 0;"><a href="https://www.minseungjeon.com" style="text-decoration: underline;">Checkout my Website</a></h3>
+  <!--
 <hr style="border: 0.5px solid #ccc; margin: 1.2rem 0">
-<!--
+
 🤖 Building intelligent systems that understand, remember, and engage naturally with users.
 <br><br>
 ⚡ Creating autonomous AI experiences with `multi-LLM orchestration`, `conversational memory`, and `proactive engagement`.
